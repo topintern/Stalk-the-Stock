@@ -1,0 +1,13 @@
+account
+100 companies
+follow
+5 sources scrape (business insider etc)
+articles - 10 articles per company (dated)
+stock graphs
+investable score (default-stock, future- ML/NLP,)
+save articles,
+highlight articles,
+
+beta- notes- highlighted paragra -(linked to main article),(company name, article name, date)
+
+notification alerts -   notification page (all,unread)
